@@ -1,5 +1,5 @@
 # Fake-News-Detection
-ake-News-Detection with Machine Learning
+Fake-News-Detection with Machine Learning
 
 This repository contains a Jupyter Notebook for detecting fake news using machine learning techniques.
 
